@@ -1,0 +1,25 @@
+let month=5;
+switch(month){
+    case 1:
+        console.log('january');
+        break;
+        
+    case 2:
+        console.log('feb');
+        break;
+
+    case 3:
+        console.log('March');
+        break;
+
+    case 4:
+        console.log('april');
+        break;
+
+    case 5:
+        console.log('may');
+        break;
+
+    default:
+        console.log('No month!!!!!@@@')      
+}
