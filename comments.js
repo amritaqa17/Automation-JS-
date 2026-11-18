@@ -1,12 +1,13 @@
-/// this is hello world!!//
+
 console.log("hello!!! JS");
 
-/***multiple line of code is not interactive *********/
+
 console.log("hiiii")
+console.log("hello Akshita baby!!!!!")
 
 /******Variables in JS  */
 let X;
-X=10;
+X=20;
 console.log(X);
 
 let Y=20,Z=20;
